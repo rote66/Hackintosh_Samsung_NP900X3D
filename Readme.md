@@ -1,6 +1,8 @@
-# **Hackintosh for Samsung 900x3D-A02CN**
+# **Hackintosh for Samsung NP900x3D**
+# ********Test in A02CN/A06CN********
 
 ============================================
+[详细请移步至](https://xtremedev.top/default/131.html)
 
 
 # **IMPORTANT**
@@ -8,8 +10,11 @@
 
 下载efi请从release下载
 
-# **900X3D-A02CN**
+# **NP900X3D-A02CN**
 I5-3317U IvyBridge
+
+# **NP900X3D-A06CN**
+I5-3337U IvyBridge
 
 =============================================
 
