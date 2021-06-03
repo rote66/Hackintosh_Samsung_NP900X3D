@@ -1,7 +1,7 @@
 # **Hackintosh for Samsung NP900x3D**
 # ********Test in A02CN/A06CN********
 
-============================================
+
 [详细请移步至](https://xtremedev.top/default/131.html)
 
 
